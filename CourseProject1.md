@@ -32,7 +32,7 @@ day:
         labs(y="Count")
     print(g)
 
-![](CourseProject1_files/figure-markdown_strict/q1plot-1.png)
+![](CourseProject1_files/figure-html/q1plot-1.png)
 
 From the histogram we see that the center of the distribution is at
 about 10 to 15 thousand steps per day.
@@ -60,7 +60,7 @@ average step number across all days as a function of the time intervall.
         labs(y="Step Count")
     print(g1)
 
-![](CourseProject1_files/figure-markdown_strict/q2plot-1.png)
+![](CourseProject1_files/figure-html/q2plot-1.png)
 
 From the plot, we can identify times of no activity - likely at night
 time - times of elevated acitivities, as well as a sharp peak in
@@ -110,7 +110,7 @@ the non-imputed data
         labs(y="Count")
     print(g2)
 
-![](CourseProject1_files/figure-markdown_strict/q3plot-1.png)
+![](CourseProject1_files/figure-html/q3plot-1.png)
 
 Compared to the first plot, we see that the imputed data exhibit a
 different distribution.
@@ -176,7 +176,7 @@ the time interval and make use of the weekend/weekeday factor variable
         labs(y="Step Count")
     print(g3)
 
-![](CourseProject1_files/figure-markdown_strict/q4plot-1.png)
+![](CourseProject1_files/figure-html/q4plot-1.png)
 
 As we can see from plot, the activity pattern on weekdays, "FALSE", is
 quantitatively and qualitatively different from weekends, "TRUE". On
