@@ -3,8 +3,8 @@ title: "Class 5 Week 2 Course Project 1"
 author: "Berthold Jaeck"
 date: "4/26/2017"
 output:
+  md_document: default
   html_document: default
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
